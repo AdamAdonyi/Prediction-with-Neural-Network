@@ -2,7 +2,7 @@
 
 # Background
 
-Using publicly available insurance data [data](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset) ([data](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)), I wanted to build basic neural network models which are able to predict price/charges based on the age, sex, bmi, childre, smoker, region using [TensorFlow](https://www.tensorflow.org/)
+Using publicly available insurance data [data](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv), I wanted to build basic neural network models which are able to predict price/charges based on the age, sex, bmi, childre, smoker, region using [TensorFlow](https://www.tensorflow.org/)
 
 # Method & Models
 
