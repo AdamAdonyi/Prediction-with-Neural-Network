@@ -10,7 +10,7 @@ Here I compare two differnt models; one with, and one without activation [ReLu](
 Same dataset was used on both models to compare them. Model_1 has no activation meanwhile model_2 consists of 'relu' in two layers as well. Beside of that different, both contains 3 layers with 100, 10 then 1 neuron. As optimizer, [Adam](https://keras.io/api/optimizers/adam/) has been introduced with learning_rate=0.1. Furthermore [mae](https://en.wikipedia.org/wiki/Mean_absolute_error) is the metrics.
 
 
-# Results
+# Results: model_1 vs model_2
 
 <img src="https://github.com/AdamAdonyi/Prediction-with-Neural-Network/blob/main/model_1_pred_graph.JPG" width="45%" height="45%"/> |
 <img src="https://github.com/AdamAdonyi/Prediction-with-Neural-Network/blob/main/model_2_pred_graph.JPG" width="45%" height="45%"/>
